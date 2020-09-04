@@ -1,0 +1,6 @@
+rootProject.name = 'bomberflag'
+include 'bomberman-auto-configure'
+include 'bomberman-library'
+include 'bomberflag-sample-app'
+include 'bomberflag-spring-boot-starter'
+
